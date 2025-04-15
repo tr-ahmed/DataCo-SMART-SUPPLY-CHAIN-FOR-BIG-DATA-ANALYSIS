@@ -62,10 +62,6 @@ Interactive Power BI dashboards analyzing order fulfillment, customer segmentati
 | [Discount Problem Solving](Dashboards/6_Discount.pbix) | Discount Overcome | Parameter Adjustment, Negative Profit / Adjusted |
 
 ## **How to Use**
-1. **Clone this repo**
- 
-  https://github.com/Israa-Essam/DataCo-SMART-SUPPLY-CHAIN-FOR-BIG-DATA-ANALYSIS
-
 📈 Trends & Patterns
 Annual Order Volume
 2015: 21K orders
